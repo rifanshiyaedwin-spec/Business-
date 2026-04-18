@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Casual T-Shirt",
+    "price": 499,
+    "image": "https://via.placeholder.com/200"
+  },
+  {
+    "id": 2,
+    "name": "Denim Jacket",
+    "price": 1499,
+    "image": "https://via.placeholder.com/200"
+  },
+  {
+    "id": 3,
+    "name": "Hoodie",
+    "price": 999,
+    "image": "https://via.placeholder.com/200"
+  }
+]
